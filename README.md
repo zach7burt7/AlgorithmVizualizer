@@ -30,8 +30,7 @@ Sorting Algorithm Vizualization
 Make sure you have:  
 Java JDK 8 or later  
 An IDE (like IntelliJ IDEA, Eclipse)  
-Git  
-`https://git-scm.com/downloads`  
+Git: `https://git-scm.com/downloads`  
 
 ## Clone repository:  
 In Command Prompt, navigate to the directory you would like to clone this project to, then copy this command.  
